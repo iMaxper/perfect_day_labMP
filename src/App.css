@@ -1,4 +1,4 @@
-.App h1{
+.App h1 {
   text-align: center;
 }
 
@@ -8,7 +8,7 @@ div.Navbar {
   font-size: 30px;
 }
 div.Navbar h3 {
-color:rgb(255, 230, 172);
+color:rgb(255, 0,0 );
 margin: 0;
 }
 
